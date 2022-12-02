@@ -17,7 +17,6 @@ from telegram.ext import *
 
 
 
-#PORT = int(os.environ.get('PORT', '8443'))
 
     # classifica piloti
 def scraping_piloti():
